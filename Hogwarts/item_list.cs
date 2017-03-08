@@ -17,7 +17,7 @@ namespace Hogwarts
 
         
 
-        int item_count = 0;
+        int item_count = 0;   //a
 
         items[] ob = new items[50];
 

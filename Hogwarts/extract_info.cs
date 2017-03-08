@@ -62,7 +62,7 @@ namespace Hogwarts
 
                 }
 
-                data.data_in(x, k, l, name, count);
+                data.data_in(x, k, l, name, count);  //aa
 
                 count++;
 

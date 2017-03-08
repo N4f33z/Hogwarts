@@ -13,7 +13,7 @@ namespace Hogwarts
     {
         string[] input = new string[100];
 
-        public int inputSize; 
+        public int inputSize;   //aa
 
         public get_file()
         {

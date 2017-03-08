@@ -17,7 +17,7 @@ namespace Hogwarts
 
             int size = ob.input_sz();
 
-            extract_info ob1 = new extract_info(s,size);
+            extract_info ob1 = new extract_info(s,size);  //aa
 
             item_list data= ob1.extract_obj(s,size);
 

@@ -14,7 +14,7 @@ namespace Hogwarts
         
        public struct items
         {
-            public int index, price;
+            public int index, price;  //aa
 
             public string item;
         }

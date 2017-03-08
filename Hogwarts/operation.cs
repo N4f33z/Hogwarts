@@ -28,7 +28,7 @@ namespace Hogwarts
 
             Console.Write("Pick Your choice: ");
 
-            choice = Int32.Parse(Console.ReadLine());
+            choice = Int32.Parse(Console.ReadLine());   //aa
 
             int price = data.remove(choice);
 

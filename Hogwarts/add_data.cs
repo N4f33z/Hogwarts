@@ -10,7 +10,7 @@
 //    {
 //        public struct items
 //        {
-//            public int index, available, price;
+//            public int index, available, price;  //aa
 
 //            public string item;
 //        }
